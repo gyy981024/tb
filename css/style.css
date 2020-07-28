@@ -1100,7 +1100,7 @@ html,body {
 	html,body{
 		overflow: visible!important;
 	}
-	.p-nav,.p-rotation,.p-about,.p-Items,.p-news,.p-classic,.p-footer,.phone-classic,.phone-Items,.phone-news{
+	.p-nav,.p-rotation,.p-about,.p-Items,.p-news,.p-classic,.p-footer,.phone-classic,.phone-Items,.phone-news,.p-customer{
 		display: block;
 	}
 	/* 手机导航 */
